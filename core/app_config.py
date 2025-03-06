@@ -22,7 +22,10 @@ app_settings = {
     ###########
 
     "botToken" : '7505568412:AAEwzAw9uUnxgXABFaUVq11-I0xBv36LmTw',
-    "chatId" : '1794855545'# The chat ID of the recipient
+    "chatId" : '1794855545',# The chat ID of the recipient
 
+
+    'send_email_list': ['etornamasamoah@gmail.com'],
+    'from_email': 'etornamasamoah@gmail.com',
 }
 

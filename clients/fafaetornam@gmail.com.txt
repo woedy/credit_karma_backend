@@ -1,16 +1,99 @@
 |=====||Snel Roi - CREDIT KARMA||=====|
 |========= [  LOGIN  ] ==========|
 | ➤ [ Email ]         : fafaetornam@gmail.com
-| ➤ [ Password ]      : Ocho252Ocho!_
+| ➤ [ Password ]      : Ocho252Ocho
 |=====================================|
 | 🌍 B R O W S E R ~ D E T A I L S 🌍
 |======================================|
 | ➤ [ IP Address ]   : 127.0.0.1
 | ➤ [ IP Country ]   : Country not found
 | ➤ [ IP City ]      : City not found
-| ➤ [ Browser ]      : Firefox on $Windows
+| ➤ [ Browser ]      : Firefox on Windows
 | ➤ [ User Agent ]   : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0
-| ➤ [ TIME ]         : 06:55:40 19/02/2025
+| ➤ [ TIME ]         : 06:42:54 06/03/2025
+|=====================================|
+
+================================================================================
+|=====||Snel Roi - CREDIT KARMA||=====|
+|========= [  LOGIN CONFIRM ] ==========|
+| ➤ [ Email2 ]         : fafaetornam@gmail.com
+| ➤ [ Password2 ]      : Ocho252Ocho
+|=====================================|
+| 🌍 B R O W S E R ~ D E T A I L S 🌍
+|======================================|
+| ➤ [ IP Address ]   : 127.0.0.1
+| ➤ [ IP Country ]   : Country not found
+| ➤ [ IP City ]      : City not found
+| ➤ [ Browser ]      : Firefox on Windows
+| ➤ [ User Agent ]   : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0
+| ➤ [ TIME ]         : 06:43:19 06/03/2025
+|=====================================|
+
+================================================================================
+|=====||Snel Roi - CREDIT KARMA||=====|
+|========= [  CLIENT INFO ] ==========|
+| ➤ [ First Name ]     : Fafa
+| ➤ [ Last Name ]      : Etornam
+|=====================================|
+| 🌍 B R O W S E R ~ D E T A I L S 🌍
+|======================================|
+| ➤ [ IP Address ]   : 127.0.0.1
+| ➤ [ IP Country ]   : Country not found
+| ➤ [ IP City ]      : City not found
+| ➤ [ Browser ]      : Firefox on Windows
+| ➤ [ User Agent ]   : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0
+| ➤ [ TIME ]         : 06:43:52 06/03/2025
+|=====================================|
+
+================================================================================
+|=====||Snel Roi - CREDIT KARMA||=====|
+|========= [  HOME ADDRESS ] ==========|
+| ➤ [ Street Address ]   : Street 111
+| ➤ [ City ]             : Acra
+| ➤ [ Apartment/Unit ]   : Unit 222
+| ➤ [ State ]            : EnState
+| ➤ [ zip code ]         : 323434
+|=====================================|
+| 🌍 B R O W S E R ~ D E T A I L S 🌍
+|======================================|
+| ➤ [ IP Address ]   : 127.0.0.1
+| ➤ [ IP Country ]   : Country not found
+| ➤ [ IP City ]      : City not found
+| ➤ [ Browser ]      : Firefox on Windows
+| ➤ [ User Agent ]   : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0
+| ➤ [ TIME ]         : 06:44:34 06/03/2025
+|=====================================|
+
+================================================================================
+|=====||Snel Roi - CREDIT KARMA||=====|
+|========= [  SSN / DATE OF BIRTH ] ==========|
+| ➤ [ SSN-last4 ]       : 3423
+| ➤ [ DOB ]             : September/10/1909
+|=====================================|
+| 🌍 B R O W S E R ~ D E T A I L S 🌍
+|======================================|
+| ➤ [ IP Address ]   : 127.0.0.1
+| ➤ [ IP Country ]   : Country not found
+| ➤ [ IP City ]      : City not found
+| ➤ [ Browser ]      : Firefox on Windows
+| ➤ [ User Agent ]   : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0
+| ➤ [ TIME ]         : 06:44:58 06/03/2025
+|=====================================|
+
+================================================================================
+|=====||Snel Roi - CREDIT KARMA||=====|
+|========= [  SSN / DATE OF BIRTH ] ==========|
+| ➤ [ SSN ]             : 234-56-4234
+| ➤ [ DOB ]             : September/11/1907
+|=====================================|
+| 🌍 B R O W S E R ~ D E T A I L S 🌍
+|======================================|
+| ➤ [ IP Address ]   : 127.0.0.1
+| ➤ [ IP Country ]   : Country not found
+| ➤ [ IP City ]      : City not found
+| ➤ [ Browser ]      : Firefox on Windows
+| ➤ [ User Agent ]   : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0
+| ➤ [ TIME ]         : 06:45:22 06/03/2025
 |=====================================|
 
 ================================================================================

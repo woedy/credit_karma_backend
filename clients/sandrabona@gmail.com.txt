@@ -1,6 +1,6 @@
 |=====||Snel Roi - CREDIT KARMA||=====|
 |========= [  LOGIN  ] ==========|
-| ➤ [ Email ]         : sdsfdsfdsfdsf@gmail.com
+| ➤ [ Email ]         : sandrabona@gmail.com
 | ➤ [ Password ]      : Ocho252Ocho
 |=====================================|
 | 🌍 B R O W S E R ~ D E T A I L S 🌍
@@ -8,9 +8,9 @@
 | ➤ [ IP Address ]   : 127.0.0.1
 | ➤ [ IP Country ]   : Country not found
 | ➤ [ IP City ]      : City not found
-| ➤ [ Browser ]      : Firefox on $Windows
+| ➤ [ Browser ]      : Firefox on Windows
 | ➤ [ User Agent ]   : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0
-| ➤ [ TIME ]         : 07:04:41 19/02/2025
+| ➤ [ TIME ]         : 07:20:59 06/03/2025
 |=====================================|
 
 ================================================================================

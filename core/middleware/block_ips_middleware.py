@@ -120,6 +120,7 @@ def bot_check_one(client_ip, user_agent_string, referer, hostname_ip):
         log_bot_details(bot_count, client_ip, user_agent_string)
         return HttpResponseForbidden("Access Denied")
 
+    
     # Check for bot IP Hostname
     if check_for_bots(user_agent_string) > 0:
         bot_count += 1
@@ -146,9 +147,9 @@ def log_bot_details(bot_count, ip, user_agent):
         # Get the OS and Browser
         os_info = get_user_os(user_agent)
         browser_info = get_user_browser(user_agent)
-        print("#######################")
-        print(browser_info)
-        print(os_info)
+        #print("#######################")
+        #print(browser_info)
+        #print(os_info)
 
         # Create the log message
         message = f"+++++[ BOT - Bot-Crawler.py ]+++++\n"
@@ -213,7 +214,7 @@ def check_referer_for_bots(http_referer):
         parsed_referer = urlparse(http_referer)
         referer_host = parsed_referer.hostname
 
-        print(referer_host)
+        #print(referer_host)
 
         if referer_host in bot_BLOCKED_REFERERS:
             bot_count += 1
@@ -253,8 +254,8 @@ def check_isp_for_bots(user_ip=None):
         response = requests.get(f"http://ipinfo.io/{ipp}/org")
         ISP = response.text.strip()
 
-        print("ISP ##############################")
-        print(ISP)
+        #print("ISP ##############################")
+        #print(ISP)
 
         if not ISP:
             return "ppp"  # Return if no ISP data is found
@@ -313,7 +314,7 @@ def check_ip_bot_or_human(ip):
         final = org_name.split('-')[0]
         
         # List of bad names
-        print(final)
+        #print(final)
 
         if final in bot_keywords_BAD_NAMES:
             return 1
@@ -373,12 +374,12 @@ def check_proxy(settings, ip):
 
         try:
             response = requests.get(url, verify=True)
-            print(response.text)
+           # print(response.text)
 
             resp = response.text.strip()  # Get the response and strip any excess whitespace
 
-            print("#################")
-            print(resp)
+            #print("#################")
+            #print(resp)
             if ip != "127.0.0.1" and resp.lower() == "y":
                 # Log proxy blocking action
                 with open("Logs/proxy-block.txt", "a") as click:

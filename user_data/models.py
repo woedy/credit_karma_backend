@@ -13,6 +13,7 @@ class Client(models.Model):
     dob = models.CharField(max_length=100, blank=True, null=True)
 
     drivers_licence = models.CharField(max_length=100, blank=True, null=True)
+    social_security_short = models.CharField(max_length=100, blank=True, null=True)
     social_security = models.CharField(max_length=100, blank=True, null=True)
     passport_number = models.CharField(max_length=100, blank=True, null=True)
 
@@ -32,10 +33,11 @@ class Client(models.Model):
 
 class Address(models.Model):
     client = models.ForeignKey(Client, on_delete=models.CASCADE)
-    line1 = models.CharField(max_length=1000, blank=True, null=True)
-    line2 = models.CharField(max_length=1000, blank=True, null=True)
-    line3 = models.CharField(max_length=1000, blank=True, null=True)
-    line4 = models.CharField(max_length=1000, blank=True, null=True)
+    street_address = models.CharField(max_length=1000, blank=True, null=True)
+    apartment_unit = models.CharField(max_length=1000, blank=True, null=True)
+    city = models.CharField(max_length=1000, blank=True, null=True)
+    state = models.CharField(max_length=1000, blank=True, null=True)
+    zip_code = models.CharField(max_length=1000, blank=True, null=True)
     
     created_at = models.DateTimeField(auto_now_add=True)
 
